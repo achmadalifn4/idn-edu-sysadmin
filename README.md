@@ -1,4 +1,4 @@
-# IDN EDUCATION X SMK DINAMIKA PEMBANGUNAN 1 JAKARTA
+# IDN EDUCATION
 IDN Education Program Membantu dunia pendidikan di Indonesia menuju tingkatan skill professional sehingga menghasilkan lulusan yang siap kerja.
 
 # Materi
