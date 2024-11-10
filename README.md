@@ -3,7 +3,7 @@ IDN Education Program Membantu dunia pendidikan di Indonesia menuju tingkatan sk
 
 # Materi
 ## 1. Linux Fundamental
-1.1 [Apa Itu Linux](#apa-itu-linux)  
+1.1 [Apa Itu Linux]  
 1.2 [Linux Distributions](#linux-distributions)  
 1.3 [Instalasi Ubuntu](#instalasi-ubuntu)  
 1.4 [Konfigurasi Dasar](#konfigurasi-dasar)  
