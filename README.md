@@ -41,5 +41,3 @@ IDN Education Program Membantu dunia pendidikan di Indonesia menuju tingkatan sk
 
 Pemateri: [Achmad Alif Nasrulloh](https://www.linkedin.com/in/achmadalifnasrulloh)
 
-## t
-# t
